@@ -1,0 +1,1 @@
+{"name": "ram", "age": 21, "address": "Kathmandu", "skills": ["python", "django", "machine learning"], "is_programmer": true, "phone": null}
